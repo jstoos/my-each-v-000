@@ -10,4 +10,3 @@ end
 my_each(words) do |x|
     puts "#{x}"
   end
-  
