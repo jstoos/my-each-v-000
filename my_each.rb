@@ -5,4 +5,3 @@ def my_each(words)
     counter +=1
   end
 end
-
