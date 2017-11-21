@@ -8,6 +8,6 @@ end
 
 
 my_each(words) do |x|
-    puts "#{{x}"
+    puts "#{x}"
   end
   
