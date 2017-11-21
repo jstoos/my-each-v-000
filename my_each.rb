@@ -6,6 +6,6 @@ def my_each(words)
   end
 end
 
-my_each(words[counter]) do |fred|
+my_each do |fred|
   puts "#{fred}"
 end
