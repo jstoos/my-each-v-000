@@ -6,6 +6,6 @@ def my_each(collection)
   end
 end
 
-my_each do |x|
+my_each(collection) do |x|
   puts "#{x}"
 end
