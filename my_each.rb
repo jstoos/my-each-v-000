@@ -3,6 +3,5 @@ def my_each(words)
   while counter < words.length
     yield(words[counter])
     counter +=1
-    puts "y"
   end
 end
