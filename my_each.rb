@@ -7,5 +7,3 @@ def my_each(words)
 end
 
 my_each(x) {puts "#{x}"}
-
-
