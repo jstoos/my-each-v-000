@@ -8,4 +8,4 @@ end
 
 my_each do |x|
     puts "#{x}"
-  end
+end
