@@ -7,6 +7,6 @@ def my_each(words)
 end
 
 
-my_each(x) do
+my_each do |x|
     puts "#{x}"
   end
