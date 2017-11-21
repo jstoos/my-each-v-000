@@ -7,5 +7,5 @@ def my_each(collection)
 end
 
 my_each do |x|
-  puts x
+  puts "#{x}"
 end
